@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # korfax (copy-pasta)
+   # korfax
 
    # Input:
    # p, principal amount
